@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     MyCountDownTimer mTimer;
     FloatingActionButton mFab;
     SoundPool mSoundPool;
-
+    int mSoundResId;
 
 
     public class MyCountDownTimer extends CountDownTimer {
